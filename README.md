@@ -1,2 +1,0 @@
-# WMC-
-Repository for WMC
